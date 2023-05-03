@@ -1,0 +1,3 @@
+# ignore audio files
+*.wav
+*.mp3
